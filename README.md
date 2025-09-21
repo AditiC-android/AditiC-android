@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AditiC-android
-- 👀 I’m interested in Android development.
+- 👀 I’m interested in Android development and Machine Learning.
 - 🌱 I’m currently learning how to perfect my skills and become a better developer every day.
 - 💞️ I’m looking to collaborate on projects that are meant for social advancement.
 - 📫 How to reach me - you can email me at 1ditijain@gmail.com
